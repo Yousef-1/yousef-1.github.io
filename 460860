@@ -1,0 +1,15 @@
+a:link{
+	text-decoration:none;
+	color:grey;
+	font-weight:bold;
+}
+
+body{
+	font-family:"courier new", courier, monospace;
+	font-size:18;
+	
+}
+
+
+
+    

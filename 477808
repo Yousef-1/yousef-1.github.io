@@ -1,0 +1,58 @@
+<html><head><title> My Blog </title>
+	<link rel="stylesheet"  type="text/css" 
+			href="index.css">
+	<link rel="stylesheet"  type="text/css" 
+			href="styles.css">
+   <style type="text/css" id="dcoder_stylesheet">
+body{
+	font-family:"courier new", courier, monospace;
+	font-size:18;
+}</style></head>
+   <body>
+   <div id="header">
+   <div class="container">
+   	<a href="index.html" id="header-title">My Blog </a>
+   		<ul id="header-nav">
+   			<li><a href="about.html">About</a></li>
+   			<li><a href="mailto:machinethekellygun@gmail.com">Contact</a></li>
+   		</ul>
+   </div>
+   </div>
+   
+   <div id="content">
+   <div class="container">
+   	<div class="about">
+   		<div align="center" class="about-author">
+   			<img src="me.png" >
+   		</div>
+   
+   		<div class="post-content">
+   		<h1>About Me</h1>
+   			<p>Hi there! if u like my work I don't care
+   				just follow me on my fake page on Facebook..
+   			</p>
+   		</div>
+   	</div>
+   </div>
+   </div>
+   
+   <div id="footer">
+   	<div class="container">
+   		<div class="column">
+   			<h4>My Things</h4>
+   			<p>
+   			<a href="http://facebook.com/felipe.joaquim.589100">Facebook</a>
+   			<br>
+   			</p>
+   		</div>
+   	
+   		<div class="column">
+   			<h4>About Me </h4>
+   			<p>Why do u want to know about me 
+   			</p>
+   		</div>
+   		<div class="copyright">©2019 The Earth.</div>
+   </div>
+</div>
+</body></html>
+    
